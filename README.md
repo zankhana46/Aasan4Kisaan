@@ -1,5 +1,5 @@
 ![logofinal](https://user-images.githubusercontent.com/73026322/187844195-17b0fd44-a2b0-4c5c-94c9-c72ff1006930.png)<br></br>
-# Asaan4Kissan
+# Assan4Kissan
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Inspiration 🧑🏻‍💻<br>
 By looking at the UN sustainable development goals for reducing HUNGER, reducing POVERTY, and focusing on RESPONSIBLE CONSUMPTION & PRODUCTION.Our app is a platform that will facilitate the local farmers to monitor their cultivation, examine the weather and check the health of their crops all at one place.<br>
@@ -76,7 +76,7 @@ Development of the application:<br></br>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Contributors: <br></br>
 * <a href="https://github.com/Abhiman1211">Abhiman Gautam </a><br>
-* <a href="https://github.com/Riya2919">Riya Gandhi </a><br></br>
+* <a href="https://github.com/Riya2919">Riya Gandhi </a><br>
 * <a href="https://github.com/Tithi1408">Tithi Patel </a></br>
 * <a href="https://github.com/devk22">Dev Khandelwal </a></br>
 * <a href="https://github.com/ranjan210">Ranjan </a></br>
